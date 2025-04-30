@@ -1,0 +1,8 @@
+{
+    "model_type": "enhanced",
+    "is_classification": true,
+    "use_focal_loss": true,
+    "use_f1_loss": false,
+    "use_class_weights": true,
+    "feature_dim": 27
+}

@@ -1,5 +1,5 @@
 # 数据相关
-DATA_FILE = 'data.csv'
+DATA_FILE = 'normalized_data.csv'
 EXCLUDE_COLUMNS = ['Unnamed: 0','STPT', 'Accper', 'Stkcd', 'ManaDiscAnal']
 
 # 随机种子设置

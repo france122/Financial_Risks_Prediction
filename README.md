@@ -7,4 +7,4 @@
 
 ## 环境要求
 - Python 3.8+
-- pandas, torch，numpy, scikit-learn, xgboost,catboost
+- pandas, torch，numpy, scikit-learn, xgboost, catboost

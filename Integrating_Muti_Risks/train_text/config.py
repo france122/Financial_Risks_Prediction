@@ -12,7 +12,7 @@ FINANCIAL_INDICATOR_DIM = 43  # 可根据实际数据自动计算
 
 # 特征选择参数
 USE_FINANCIAL_INDICATORS = True  # 是否使用财务指标特征
-USE_TEXT_EMBEDDING = False # 是否使用文本向量特征
+USE_TEXT_EMBEDDING = True # 是否使用文本向量特征
 
 # 自编码器参数
 AUTOENCODER_HIDDEN_DIM = 30  # 文本向量降维后的维度
